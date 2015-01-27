@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://win-hi6epikt47f/svn/SOM"
+   revision="2"
+   last-author="lmg"
+   url="https://win-hi6epikt47f/svn/SOM/SOM/WebRoot/css/icons"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2014-07-16T14:34:49.943000Z"/>
+<entry
+   name="back.png"
+   checksum="03e5661838fe75ad1631498e13f66f47"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:41.032000Z"/>
+<entry
+   name="blank.gif"
+   checksum="fc94fb0c3ed8a8f909dbc7630a0987ff"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:41.564000Z"/>
+<entry
+   name="cancel.png"
+   checksum="c1d3e1fcf0a2c275251d944f24e48a34"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:46.665000Z"/>
+<entry
+   name="cut.png"
+   checksum="6fafa59a3d618c5cd71e1180c1493f4b"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:42.073000Z"/>
+<entry
+   name="edit_add.png"
+   checksum="61b6bc31e706d2fe2bc5e9387397ec1e"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:41.654000Z"/>
+<entry
+   name="edit_remove.png"
+   checksum="f55bca7a5816edd468785ecb693abb1f"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:45.024000Z"/>
+<entry
+   name="filesave.png"
+   checksum="dbff1b14d085a13acad4a3d1869ff0c6"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:50.389000Z"/>
+<entry
+   name="help.png"
+   checksum="a3f000b12c084cc001e2ee151651f892"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:41.874000Z"/>
+<entry
+   name="mini_add.png"
+   checksum="4163edf17a997605c1feb79cfe6a19c5"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:51.168000Z"/>
+<entry
+   name="mini_edit.png"
+   checksum="c7b1193ef662a84d8e90bce0c88a2af5"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:47.540000Z"/>
+<entry
+   name="mini_refresh.png"
+   checksum="657b83fae9ab3efefcc45cf050f1b67a"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:41.617000Z"/>
+<entry
+   name="no.png"
+   checksum="937f61ae057022d825ee1224dfaa9136"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:46.456000Z"/>
+<entry
+   name="ok.png"
+   checksum="6c2c87b14636d2c53a7ca90bceb89e3b"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:40.912000Z"/>
+<entry
+   name="pencil.png"
+   checksum="cb752cea024163da847aa34b27f88f8c"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:45.217000Z"/>
+<entry
+   name="print.png"
+   checksum="b86ea8d0decb1df6db612b65f7ddbeb9"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:48.325000Z"/>
+<entry
+   name="redo.png"
+   checksum="887af69e5e33b577a7566abee7433962"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:48.757000Z"/>
+<entry
+   name="reload.png"
+   checksum="7e733d075137687e0013634e458d3004"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:43.776000Z"/>
+<entry
+   name="search.png"
+   checksum="07f55acc2ec2329b46a537379d5e208c"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:44.871000Z"/>
+<entry
+   name="sum.png"
+   checksum="6dc73816f0ea5bb6e0090063ab9b35f2"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:49.363000Z"/>
+<entry
+   name="tip.png"
+   checksum="c4f3fa81e2bf5d7b4353ac26b351515a"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:51.036000Z"/>
+<entry
+   name="undo.png"
+   checksum="109db39a4d782d875f01ffdfbb1e3a7a"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"
+   prop-time="2014-07-16T14:33:45.835000Z"/>
+</wc-entries>

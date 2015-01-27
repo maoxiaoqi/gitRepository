@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://win-hi6epikt47f/svn/SOM"
+   revision="2"
+   last-author="lmg"
+   url="https://win-hi6epikt47f/svn/SOM/SOM/WebRoot/css"
+   committed-rev="2"
+   kind="dir"
+   committed-date="2014-07-16T14:34:49.943000Z"/>
+<entry
+   name="demo.css"
+   checksum="812eb9920ab5222ae4cedf279a4ff411"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"/>
+<entry
+   name="easyui.css"
+   checksum="c9657250e28b7462947a9a66cbeeb998"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"/>
+<entry
+   name="icon.css"
+   checksum="3e50729493ad9025ca5c1994ce06fa14"
+   last-author="lmg"
+   text-time="2013-06-15T06:39:52.000000Z"
+   committed-rev="2"
+   kind="file"
+   committed-date="2014-07-16T14:34:49.943000Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+</wc-entries>
